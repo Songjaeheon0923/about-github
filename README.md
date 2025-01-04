@@ -93,3 +93,7 @@ git flow에서 사용하는 브랜치(5개)
 3. base와 compare branch를 설정 후, 코멘트를 남기고 Create pull request
 4. pull request 화면에서 Merge pull request 하면, 병합이 실행된다. 
 
+# 유용한 Github 사용법
+- 이슈 관리: 프로젝트 진행 시 나오는 모든 이슈를 github에서 관리한다. (issue tab)
+- **Commit의 코맨트를 상세히 작성하여 가독성을 이끌어낸다.**
+  
