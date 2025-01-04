@@ -1,6 +1,6 @@
-# github Practice
+# github Study
 
-dev(개발 환경) 구축 연습
+dev(개발 환경) 구축 학습
 
 # README 작성 방법
 
