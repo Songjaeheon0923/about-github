@@ -86,3 +86,10 @@ git flow에서 사용하는 브랜치(5개)
   - Realease: 이번 출시 버전을 준비하는 브랜치
   - Hotfix: 출시 버전에서 발생한 버그를 수정하는 브랜치
 
+## 브랜치 병합 방법
+가령, develop branch의 수정 내용을 master에 병합해야 한다면,  
+1. pull request 클릭
+2. Compare&pull request 클릭
+3. base와 compare branch를 설정 후, 코멘트를 남기고 Create pull request
+4. pull request 화면에서 Merge pull request 하면, 병합이 실행된다. 
+
